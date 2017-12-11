@@ -1,5 +1,5 @@
 {
-    "name": "drupal/igshpa-monolog",
+    "name": "drupal/monolog-igshpa",
     "type": "drupal-module",
     "description": "A Framework and UI for integrating with the Monolog library.",
     "homepage": "http://drupal.org/project/monolog",
