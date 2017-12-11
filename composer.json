@@ -26,7 +26,7 @@
         }
     ],
     "require": {
-        "narrator/monolog": "dev-master"
+        "narrator/monolog": "dev-1.x"
     },
     "autoload": {
         "psr-0": {
